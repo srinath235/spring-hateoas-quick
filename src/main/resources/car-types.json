@@ -1,0 +1,29 @@
+{
+"carTypes": [
+	{
+	 "type": "City Cars",
+	 "code": 1,
+	 "examples": ["Volkswagen UP", "Hyundai i10", "Peugeot 108"]
+	},
+	{
+	 "type": "Superminis",
+	 "code": 2,
+	 "examples": ["Ford fiesta", "Vauxhall Corsa", "Volkswagen Polo"]
+	},
+	{
+	 "type": "Hatchbacks",
+	 "code": 3,
+	 "examples": ["Ford focus", "Volkswagen Golf", "Mercedes A-class"]
+	},
+	{
+	 "type": "MPVs",
+	 "code": 4,
+	 "examples": ["Ford Galaxy"]
+	},
+	{
+	 "type": "SUVs",
+	 "code": 5,
+	 "examples": ["Ford Kuga", "Range Rover"]
+	}
+] 
+}
